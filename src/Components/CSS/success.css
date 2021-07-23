@@ -1,0 +1,15 @@
+.success-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+.headding {
+  display: flex;
+  flex-direction: row;
+}
+.name-and-email {
+  text-align: center;
+  margin-left: 10px;
+  margin-top: -5px;
+}
